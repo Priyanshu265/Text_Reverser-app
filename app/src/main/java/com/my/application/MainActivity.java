@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
                     {
                         edit.setError("Please enter any text here!");
                         edit.requestFocus();
-                        return;
                     }
             }
         });
